@@ -1,0 +1,9 @@
+* 40ants-mcp
+
+40ANTS-MCP is a framework for building Model Context Protocol servers in Common Lisp.
+
+|---------+---------------------------------------|
+| source  | git:https://github.com/40ants/mcp.git |
+| commit  | 579e083                               |
+| systems | 40ants-mcp                            |
+|---------+---------------------------------------|
