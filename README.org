@@ -4,7 +4,7 @@
 
 |---------+---------------------------------------|
 | source  | git:https://github.com/40ants/mcp.git |
-| commit  | fd42f90                               |
+| commit  | e5ce61b                               |
 | systems | 40ants-mcp                            |
 |---------+---------------------------------------|
  
